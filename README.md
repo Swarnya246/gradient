@@ -1,1 +1,1 @@
-Check it out at [gradient.cf]!
+Check it out at gradient.cf!
