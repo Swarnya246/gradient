@@ -1,3 +1,1 @@
-# gradient
-
-Check it out at [gradient.cf](gradient.cf)!
+Check it out at [gradient.cf]!
